@@ -19,7 +19,7 @@
 
 
 <td>
-    <img src="https://stevivor.com/wp-content/uploads/2022/02/elden-ring.jpg"width="290px" height="290px"/>
+    <img src="https://stevivor.com/wp-content/uploads/2022/02/elden-ring-990x556.jpg"width="290px" height="290px"/>
 
 </td>
 <td style="font-size:25px" colspan="1">
